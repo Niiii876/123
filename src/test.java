@@ -4,5 +4,6 @@ public class test {
     public static void main(String[] args) {
         id=10+1;
         System.out.println("id");
+        System.out.println("123");
     }
 }

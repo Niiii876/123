@@ -3,7 +3,6 @@ public class test {
 
     public static void main(String[] args) {
         id=10+1;
-        System.out.println("hello");
-        System.out.println("123456");
+        System.out.println("id");
     }
 }
